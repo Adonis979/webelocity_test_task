@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "category": "Phone",
+    "brand": "Apple",
+    "name": "iPhone 15 Pro",
+    "price": 1099.99,
+    "quantity": 1,
+    "color": "Graphite"
+  },
+  {
+    "id": 2,
+    "category": "Phone",
+    "brand": "Apple",
+    "name": "iPhone 15 Pro Max",
+    "price": 1199.99,
+    "quantity": 1,
+    "color": "Silver"
+  },
+  {
+    "id": 3,
+    "category": "Phone",
+    "brand": "Google",
+    "name": "Pixel 8",
+    "price": 999.0,
+    "quantity": 1,
+    "color": "Stormy Black"
+  },
+  {
+    "id": 4,
+    "category": "Phone",
+    "brand": "Google",
+    "name": "Pixel 8 Pro",
+    "price": 1199.0,
+    "quantity": 1,
+    "color": "Frosty White"
+  },
+  {
+    "id": 5,
+    "category": "Phone",
+    "brand": "Samsung",
+    "name": "Galaxy S21 Ultra",
+    "price": 1199.99,
+    "quantity": 1,
+    "color": "Phantom Black"
+  },
+  {
+    "id": 6,
+    "category": "Phone",
+    "brand": "Google",
+    "name": "Google Pixel 6",
+    "price": 799.0,
+    "quantity": 1,
+    "color": "Sorta Seafoam"
+  },
+  {
+    "id": 7,
+    "category": "Laptop",
+    "brand": "Dell",
+    "name": "Dell XPS 13",
+    "price": 1099.99,
+    "quantity": 1,
+    "color": "Platinum Silver"
+  },
+  {
+    "id": 8,
+    "category": "Laptop",
+    "brand": "HP",
+    "name": "HP Spectre x360",
+    "price": 1299.0,
+    "quantity": 1,
+    "color": "Poseidon Blue"
+  },
+  {
+    "id": 9,
+    "category": "Laptop",
+    "brand": "Lenovo",
+    "name": "Lenovo ThinkPad X1 Carbon",
+    "price": 1499.99,
+    "quantity": 1,
+    "color": "Black"
+  },
+  {
+    "id": 10,
+    "category": "Computer",
+    "brand": "Apple",
+    "name": "Mac Mini",
+    "price": 699.0,
+    "quantity": 1,
+    "color": "Space Gray"
+  },
+  {
+    "id": 11,
+    "category": "Computer",
+    "brand": "HP",
+    "name": "HP Pavilion Desktop",
+    "price": 799.99,
+    "quantity": 1,
+    "color": "Natural Silver"
+  },
+  {
+    "id": 12,
+    "category": "Computer",
+    "brand": "Dell",
+    "name": "Dell Inspiron 27 7000",
+    "price": 1299.0,
+    "quantity": 1,
+    "color": "Black"
+  },
+  {
+    "id": 13,
+    "category": "Phone",
+    "brand": "OnePlus",
+    "name": "OnePlus 9 Pro",
+    "price": 899.0,
+    "quantity": 1,
+    "color": "Morning Mist"
+  },
+  {
+    "id": 14,
+    "category": "Phone",
+    "brand": "Xiaomi",
+    "name": "Xiaomi Mi 11",
+    "price": 699.99,
+    "quantity": 1,
+    "color": "Midnight Gray"
+  },
+  {
+    "id": 15,
+    "category": "Laptop",
+    "brand": "Asus",
+    "name": "Asus ROG Zephyrus G14",
+    "price": 1499.99,
+    "quantity": 1,
+    "color": "Moonlight White"
+  },
+  {
+    "id": 16,
+    "category": "Laptop",
+    "brand": "Acer",
+    "name": "Acer Predator Helios 300",
+    "price": 1199.0,
+    "quantity": 1,
+    "color": "Abyssal Black"
+  },
+  {
+    "id": 17,
+    "category": "Computer",
+    "brand": "Microsoft",
+    "name": "Surface Studio 2",
+    "price": 3499.0,
+    "quantity": 1,
+    "color": "Platinum"
+  },
+  {
+    "id": 18,
+    "category": "Computer",
+    "brand": "Alienware",
+    "name": "Alienware Aurora R12",
+    "price": 2499.99,
+    "quantity": 1,
+    "color": "Dark Side of the Moon"
+  },
+  {
+    "id": 19,
+    "category": "Phone",
+    "brand": "Sony",
+    "name": "Sony Xperia 1 III",
+    "price": 1199.0,
+    "quantity": 1,
+    "color": "Frosted Black"
+  },
+  {
+    "id": 20,
+    "category": "Phone",
+    "brand": "LG",
+    "name": "LG V60 ThinQ",
+    "price": 699.99,
+    "quantity": 1,
+    "color": "Classy Blue"
+  }
+]
